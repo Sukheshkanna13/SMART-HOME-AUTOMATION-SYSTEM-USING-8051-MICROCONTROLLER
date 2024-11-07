@@ -1,12 +1,13 @@
-computer networks project
+**computer networks project**
 
+**Team**:
 sukhesh kanna S
 abhishek S B 
 Pranav Balaji
 
 #improvising smart home automation via 8051 micro processor 
 
-# SMART-HOME-AUTOMATION-SYSTEM-USING-8051-MICROCONTROLLER
+# SMART-HOME-AUTOMATION-SYSTEM-improvisation
 This project involves designing a smart home automation system using 8051 microcontroller to control various appliances and devices in a house through a user‑friendly interface.
 
 
@@ -14,13 +15,13 @@ This project involves designing a smart home automation system using 8051 microc
 Design system level solutions or processes for engineering problems that meet the
 specified needs with appropriate consideration for public health and safety, and
 cultural, societal, and environmental considerations with an understanding of the
-limitations."
+limitations and simplified operations to handle complex operations."
 
 # INTRODUCTION
-The aim of the project is to make a home automation system which controls the
+The project aims to make a home automation system that controls the
 status of various appliances. It primarily combines hardware and software through a
 wireless network to enable the control of your home electronic components and
-devices through one particular device. Modern day devices like Alexa and Google
+devices through one particular device. Modern-day devices like Alexa and Google
 Home are an example of smart home automation.
 Certain basic requirements for home automation systems:
 1. A smart device phone
@@ -28,7 +29,7 @@ Certain basic requirements for home automation systems:
 3. A connected application
 
 # Need for home automation
-We need to realise that home automation is quite useful and very important in our
+We must realise that home automation is quite useful and very important in our
 lives. For example, we can use home automation for:
 1. Keeping our house safe and protected.
 2. Energy savings, which is beneficial for us as well as the environment.
